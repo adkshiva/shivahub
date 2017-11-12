@@ -1,2 +1,2 @@
 # shivahub
-its hub for gits code, does it needed to tell about it
+its hub for gits code, does it needed to tell about it this is linux
