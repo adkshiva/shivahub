@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 hange from aws2
 
 this is my second chnage
+=======
+this is
+>>>>>>> 9cd51531b3c4c3fc47be6c2720bd4c4626af6ddd
 
 this is change from aws1 
-=======
+
  this is
 
+<<<<<<< HEAD
 hange from aws2
 
 this is my second chnage 
@@ -13,3 +18,8 @@ this is my second chnage
 
 >>>>>>> 413bb081010eba305e602f3f5aa7161f5f132cdb
 >>>>>>> 68fdc283e4c5365716e4ec3c5cc1f32d46625372
+=======
+change from aws2 
+ 
+this is third change 
+>>>>>>> 9cd51531b3c4c3fc47be6c2720bd4c4626af6ddd
