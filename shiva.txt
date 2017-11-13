@@ -1,4 +1,8 @@
 my file include 
 pancard 
 passport
-aadhar no. 1234
+<<<<<<< HEAD
+aadhar no. 
+=======
+aadhar no.1234
+>>>>>>> da2a42bfa16e2a6d4d2756e0a4210af9aa70e202
