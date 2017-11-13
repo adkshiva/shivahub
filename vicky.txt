@@ -1,5 +1,15 @@
+hange from aws2
+
+this is my second chnage
+
+this is change from aws1 
+=======
  this is
 
-change from aws2
+hange from aws2
 
 this is my second chnage 
+=======
+
+>>>>>>> 413bb081010eba305e602f3f5aa7161f5f132cdb
+>>>>>>> 68fdc283e4c5365716e4ec3c5cc1f32d46625372
