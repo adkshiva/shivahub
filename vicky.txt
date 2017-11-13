@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 this is
 
 this is change from aws1 
-=======
+
  this is
 
 change from aws2 
->>>>>>> 413bb081010eba305e602f3f5aa7161f5f132cdb
+ 
+this is third change 
